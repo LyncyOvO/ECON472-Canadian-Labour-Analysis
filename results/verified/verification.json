@@ -1,0 +1,19 @@
+{
+  "verified_month": "2015-09",
+  "rows": 102095,
+  "outcome_count": 3296,
+  "outcome_mean": 0.03228365737793232,
+  "all_10_coefficients_and_standard_errors_match_rounding": true,
+  "january_tab_matches_rdata_subset": true,
+  "child_age_code4_count": 3280,
+  "child_age_unrecorded_count": 73285,
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "pyreadr": "0.5.7",
+    "rdata": "1.1.0",
+    "statsmodels": "0.15.0",
+    "matplotlib": "3.10.8"
+  }
+}

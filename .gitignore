@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.venv/
+data/raw/*
+!data/raw/.gitkeep
+*.RData
+*.rdata
+*.rds
+results/*
+!results/README.md
+!results/verified/
